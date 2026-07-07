@@ -1,0 +1,10 @@
+Instance Method
+class Method
+Static method
+decorator used in class method, instance method and 
+Encapsulation
+Innerclass & outerclass
+Inner class object always create outside inner class and inside outer class
+
+Inheritance :-
+Encapsulation, Innerclass and Inheritance
